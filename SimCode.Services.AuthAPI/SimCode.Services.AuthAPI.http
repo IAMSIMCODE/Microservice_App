@@ -1,0 +1,6 @@
+@SimCode.Services.AuthAPI_HostAddress = http://localhost:5084
+
+GET {{SimCode.Services.AuthAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,6 @@
+@SimCode.Services.CouponAPI_HostAddress = http://localhost:5165
+
+GET {{SimCode.Services.CouponAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

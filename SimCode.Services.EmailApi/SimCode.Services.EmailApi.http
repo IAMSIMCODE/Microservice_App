@@ -1,0 +1,6 @@
+@SimCode.Services.EmailApi_HostAddress = http://localhost:5200
+
+GET {{SimCode.Services.EmailApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
