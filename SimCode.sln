@@ -19,11 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimCode.Services.AuthAPI", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimCode.Services.ProductApi", "SimCode.Services.ProductApi\SimCode.Services.ProductApi.csproj", "{9B7BF931-1E23-4AF3-8C5C-2882123CD628}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimCode.Services.ShoppingCartApi", "SimCode.Services.ShoppingCartApi\SimCode.Services.ShoppingCartApi.csproj", "{827FE40D-C172-4ED9-8870-9CF2CA62B92D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimCode.Services.ShoppingCartApi", "SimCode.Services.ShoppingCartApi\SimCode.Services.ShoppingCartApi.csproj", "{827FE40D-C172-4ED9-8870-9CF2CA62B92D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimCode.ServiceBus", "SimCode.ServiceBus\SimCode.ServiceBus.csproj", "{3A78029A-3E75-403B-B0A3-60D45FAC5462}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimCode.ServiceBus", "SimCode.ServiceBus\SimCode.ServiceBus.csproj", "{3A78029A-3E75-403B-B0A3-60D45FAC5462}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimCode.Services.EmailApi", "SimCode.Services.EmailApi\SimCode.Services.EmailApi.csproj", "{B0F8E711-B0DB-4B33-9AEB-8515534E8ADE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimCode.Services.EmailApi", "SimCode.Services.EmailApi\SimCode.Services.EmailApi.csproj", "{B0F8E711-B0DB-4B33-9AEB-8515534E8ADE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,7 +69,7 @@ Global
 		{711B25B3-DBD9-487E-AB2C-4230FA926006} = {00C14068-895C-4637-8D04-59593ECDB941}
 		{9B7BF931-1E23-4AF3-8C5C-2882123CD628} = {00C14068-895C-4637-8D04-59593ECDB941}
 		{827FE40D-C172-4ED9-8870-9CF2CA62B92D} = {00C14068-895C-4637-8D04-59593ECDB941}
-		{3A78029A-3E75-403B-B0A3-60D45FAC5462} = {99FDC95B-E743-4555-9FC9-42D134F2BAFC}
+		{3A78029A-3E75-403B-B0A3-60D45FAC5462} = {00C14068-895C-4637-8D04-59593ECDB941}
 		{B0F8E711-B0DB-4B33-9AEB-8515534E8ADE} = {00C14068-895C-4637-8D04-59593ECDB941}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
